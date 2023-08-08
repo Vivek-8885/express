@@ -1,0 +1,23 @@
+{
+  "name": "exp",
+  "version": "1.0.0",
+  "description": "this is express",
+  "main": "servers.js",
+  "scripts": {
+    "test": "package.json",
+    "start": "node severs.js",
+    "server": "nodemon servers.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "vivek"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
